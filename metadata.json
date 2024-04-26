@@ -1,0 +1,22 @@
+{
+  "name": "GoneCoin",
+  "symbol": "GONR",
+  "description": "An innovative meme coin based on the 'And it's gone' meme.",
+  "image": "https://gonecoin.vercel.app/_next/image?url=%2Flogo.png&w=64&q=75",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gonecoin.vercel.app/_next/image?url=%2Flogo.png&w=64&q=75",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7ANLPQkbAKF8wJftcWyHSAELwQS2FeAN1wpaCvvhzxLS",
+        "share": 100
+      }
+    ]
+  }
+}
